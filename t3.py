@@ -9,3 +9,4 @@ PassengerId=test['PassengerId']
 print(train.head(8))
 
 
+
