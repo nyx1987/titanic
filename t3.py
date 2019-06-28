@@ -7,6 +7,3 @@ PassengerId=test['PassengerId']
 #print(test.info())
 #print(train.describe())
 print(train.head(8))
-
-
-
